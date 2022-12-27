@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
         color: "#fff",
         fontFamily: "open-sans-bold",
         fontSize: 24,
+        maxWidth: "80%",
         padding: 12,
         textAlign: "center",
     },
